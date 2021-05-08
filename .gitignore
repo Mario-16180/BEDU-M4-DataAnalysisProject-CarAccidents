@@ -1,3 +1,4 @@
 /env
 env/
 incidentes-viales-c5-limpio.csv
+*.csv
