@@ -26,7 +26,7 @@ En este repositorio se encuentra el proyecto del cuarto módulo de los cursos de
 - Estimados de Locación y Variabilidad, de Locación y Variabilidad
 - Introducción a la visualización de datos: Distribuciones
 
-[Click para ver](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/Fer.ipynb) 
+[Click para ver notebook](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/Fer.ipynb) 
 
 
 
@@ -34,14 +34,15 @@ En este repositorio se encuentra el proyecto del cuarto módulo de los cursos de
 - Correlaciones y Regresión Linear Simple
 - Distribuciones Muestrales y Técnicas de Evaluación de Modelos
 
-[Click para ver](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/BEDU_DataAnalysis_CarAccidents.ipynb) 
+[Click para ver notebook](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/BEDU_DataAnalysis_CarAccidents.ipynb) 
 
 
 
 - Introducción a Machine Learning: Clústering No Supervisado con DBSCAN
 - Visualización de datos avanzada: Uso de Google Maps 
 
-[Click para ver](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/Cluster_DBSCAN.ipynb) 
+[Click para ver notebook](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/Cluster_DBSCAN.ipynb) 
+[Click para ver pdf](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/pdfs/DBSCAN.pdf)
 
 ## Prerequisitos
 Dirigirse al archivo `requirements.txt`
@@ -61,7 +62,7 @@ Dirigirse al archivo `requirements.txt`
 ## To do
 
 - [ ] Hacer geodecodificación 
-- [ ] Usar NLP con las direcciones de geodecodificador
+- [ ] Usar NLP con las direcciones del geodecodificador
 
 <!-- LICENSE -->
 ## Licencia
