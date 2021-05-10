@@ -25,23 +25,23 @@ En este repositorio se encuentra el proyecto del cuarto módulo de los cursos de
 
 - Estimados de Locación y Variabilidad, de Locación y Variabilidad
 - Introducción a la visualización de datos: Distribuciones
+- Pruebas de hipótesis
 
-[Click para ver notebook](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/Fer.ipynb) 
+[Click para ver notebook](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/01_Tiempo_atencion.ipynb) 
 
 
 
 - Exploración de variables categóricas y análisis multivariable
-- Correlaciones y Regresión Linear Simple
-- Distribuciones Muestrales y Técnicas de Evaluación de Modelos
+- Dependencia entre variables categoricas: Prueba Chi cuadradada
 
-[Click para ver notebook](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/BEDU_DataAnalysis_CarAccidents.ipynb) 
+[Click para ver notebook](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/02_Relaciones_categoricas.ipynb) 
 
 
 
 - Introducción a Machine Learning: Clustering No Supervisado con DBSCAN
 - Visualización de datos avanzada: Uso de Google Maps 
 
-[Click para ver notebook](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/Cluster_DBSCAN.ipynb) 
+[Click para ver notebook](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/03_Clustering_DBSCAN.ipynb) 
 
 [Click para ver pdf](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/pdfs/DBSCAN.pdf)
 
