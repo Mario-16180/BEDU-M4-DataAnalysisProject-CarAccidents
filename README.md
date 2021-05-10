@@ -42,6 +42,7 @@ En este repositorio se encuentra el proyecto del cuarto módulo de los cursos de
 - Visualización de datos avanzada: Uso de Google Maps 
 
 [Click para ver notebook](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/Cluster_DBSCAN.ipynb) 
+
 [Click para ver pdf](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/pdfs/DBSCAN.pdf)
 
 ## Prerequisitos
