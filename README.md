@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/operator-ita/SmartHome-DataAnalytics">
-    <img src="data/img/logo.png" alt="Logo" width="70" height="70">
+  <a href="https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents">
+    <img src="img/logo.png" alt="Logo" width="70" height="70">
   </a>
 
   <h1 align=center>Bedu-Python-CarAccidents</h1>
@@ -23,21 +23,24 @@ En este repositorio se encuentra el proyecto del cuarto módulo de los cursos de
 
 ## Repositorio:
 
-Estimados de Locación y Variabilidad, de Locación y Variabilidad
-Introducción a la visualización de datos: Distribuciones
+- Estimados de Locación y Variabilidad, de Locación y Variabilidad
+- Introducción a la visualización de datos: Distribuciones
+
 [Click para ver](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/Fer.ipynb) 
 
 
 
-Exploración de variables categóricas y análisis multivariable
-Correlaciones y Regresión Linear Simple
-Distribuciones Muestrales y Técnicas de Evaluación de Modelos
+- Exploración de variables categóricas y análisis multivariable
+- Correlaciones y Regresión Linear Simple
+- Distribuciones Muestrales y Técnicas de Evaluación de Modelos
+
 [Click para ver](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/BEDU_DataAnalysis_CarAccidents.ipynb) 
 
 
 
 - Introducción a Machine Learning: Clústering No Supervisado con DBSCAN
 - Visualización de datos avanzada: Uso de Google Maps 
+
 [Click para ver](https://github.com/Mario-16180/BEDU-M4-DataAnalysisProject-CarAccidents/blob/main/Cluster_DBSCAN.ipynb) 
 
 ## Prerequisitos
@@ -57,8 +60,8 @@ Dirigirse al archivo `requirements.txt`
 
 ## To do
 
-- [ ] Agregar geopont en un mapa 
-- [ ] Usar algoritmos de clustering para determinar zonas más peligrosas   
+- [ ] Hacer geodecodificación 
+- [ ] Usar NLP con las direcciones de geodecodificador
 
 <!-- LICENSE -->
 ## Licencia
